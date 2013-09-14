@@ -1,4 +1,2 @@
-isource 'https://rubygems.org'
-gem 'rubygems'
-gem 'find'
+source 'https://rubygems.org'
 gem 'ffi-xattr'
